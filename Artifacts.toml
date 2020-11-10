@@ -1,0 +1,107 @@
+[[OpenSlide]]
+arch = "aarch64"
+git-tree-sha1 = "aa2e8cb4519af349310c0fad51d83dee8ff627cc"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "195db582004e001a9c60103b2340c57282e300ed1fa95b1dbda21ac4448ee7ef"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.aarch64-linux-gnu.tar.gz"
+[[OpenSlide]]
+arch = "aarch64"
+git-tree-sha1 = "3b8406dcccc9060482791ee08580219d15fb7a7a"
+libc = "musl"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "6ee0937ae989ac94be77693f545a2569b4e3f992c2a0ad4735b4919eb3382dbe"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.aarch64-linux-musl.tar.gz"
+[[OpenSlide]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ac7b1cfc6ba12f184abf9ede4e4dab68c4d80116"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "1d05d661e4a9a4a076e070874391cbc3e0d97c5b94501fe924cc94d3fb59616d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[OpenSlide]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "21b9897acfc4e3fd91204e12c37d5db79034e9e3"
+libc = "musl"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "59bd2fccba7fe88184f4891e3bc6a4d0dbd903d64d5fa60f58bc88306ab864e2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.armv7l-linux-musleabihf.tar.gz"
+[[OpenSlide]]
+arch = "i686"
+git-tree-sha1 = "f57ac3c8ed06fa92a7924779af4e73f772e0c392"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "e2571df9e2cf07bfefddb5ca444297795ea06a7310436bf699157bbd08400109"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.i686-linux-gnu.tar.gz"
+[[OpenSlide]]
+arch = "i686"
+git-tree-sha1 = "d22158554c080cda3dde40bfac1cc4bbb4f42029"
+libc = "musl"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "7958e2625a6ec00dc77bcc3476f568110244c64d3bb0d1636d2aed4adcd82832"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.i686-linux-musl.tar.gz"
+[[OpenSlide]]
+arch = "i686"
+git-tree-sha1 = "9cee6b8f15bd1c46a23f7e4084f1632031f946da"
+os = "windows"
+
+    [[OpenSlide.download]]
+    sha256 = "7b86cbcbce915233ccaa8e2aee54fdcea6db570261754f21b0b8df0441d509d1"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.i686-w64-mingw32.tar.gz"
+[[OpenSlide]]
+arch = "powerpc64le"
+git-tree-sha1 = "ff22bca01a4c822b393e72ed5e36c091ab0aad18"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "684aacefad24904dd52c8b3c0fdd4bb914f741a8555807563779e093e528d083"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.powerpc64le-linux-gnu.tar.gz"
+[[OpenSlide]]
+arch = "x86_64"
+git-tree-sha1 = "e6604bff9ad493834da0c27adf8174616d54864e"
+libc = "glibc"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "22815291a2e36990689700f25e6f975e14aa807e36bd1bad9797531faf984000"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.x86_64-linux-gnu.tar.gz"
+[[OpenSlide]]
+arch = "x86_64"
+git-tree-sha1 = "9d6c09de73de68f268560aa11dd7f35f4377a2f8"
+libc = "musl"
+os = "linux"
+
+    [[OpenSlide.download]]
+    sha256 = "6e21c91388866a2fbdff2e97755f17f986fd55ebbfd20097e6fbae65441a9119"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.x86_64-linux-musl.tar.gz"
+[[OpenSlide]]
+arch = "x86_64"
+git-tree-sha1 = "7fe088357c908fd419c686fc0eaa9a9ba51b8473"
+os = "freebsd"
+
+    [[OpenSlide.download]]
+    sha256 = "1fc42cdea2c457de14cbb12f5f875bc5909573e74c8b655c6b3c7476bd24745f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.x86_64-unknown-freebsd.tar.gz"
+[[OpenSlide]]
+arch = "x86_64"
+git-tree-sha1 = "cc7539b38becfea3428acc7a80917d2fd232d05b"
+os = "windows"
+
+    [[OpenSlide.download]]
+    sha256 = "05ca680cb7aa9a3b7764504ec2d907be7506083d28e6b24e5e86d31bed6cfc3b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSlide_jll.jl/releases/download/OpenSlide-v3.4.1+0/OpenSlide.v3.4.1.x86_64-w64-mingw32.tar.gz"
